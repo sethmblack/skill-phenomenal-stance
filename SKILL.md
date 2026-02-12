@@ -1,10 +1,9 @@
 ---
 name: phenomenal-stance
-description: Claim identity, worth, and space without apology. Counter imposter syndrome,
-  external diminishment, and self-doubt through active self-possession.
+description: Claim identity, worth, and space without apology. Counter imposter syndrome, external diminishment, and self-doubt through active self-possession.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - phenomenal-stance
