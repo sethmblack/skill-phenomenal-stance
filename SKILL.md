@@ -3,8 +3,9 @@ name: phenomenal-stance
 description: Claim identity, worth, and space without apology. Counter imposter syndrome, external diminishment, and self-doubt through active self-possession.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.4675
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - phenomenal-stance
 - transformation
